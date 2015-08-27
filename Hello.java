@@ -4,6 +4,6 @@ public class Hello {
     System.out.println("There");
     String name = ARGV.first || "World"
     puts "Hello, #{name}!"
-    # Default is "World"
+    #Default is "World"
   }
 }
